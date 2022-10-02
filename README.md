@@ -12,7 +12,7 @@ dividido entre a parte do servidor e a do cliente web.
 <br>
 
 ## 🧪 Preview do Projeto
-<video align="center" src="" controls="controls" style="max-width: 730px;">
+<video align="center" src="https://user-images.githubusercontent.com/38007646/193434581-b4617322-7dd6-4fbf-a29f-001460e05399.mp4" controls="controls" style="max-width: 730px;">
 </video>
   
 ## 🚀 Tecnologias
@@ -39,3 +39,4 @@ Você pode visualizar a aplicação através [desse link](https://nextlevelweek-
 ---
 
 Feito com 💜 por Joadson Silva.
+
