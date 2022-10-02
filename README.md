@@ -1,7 +1,5 @@
 # Next Level Week Return - Feedback Widget
 
-Projeto da NLW da @Rocketseat com @diego3g, na qual é uma plataforma de eventos por videoaula.
-
 Projeto feito durante a imersão de _React_ pela [Rocketseat](https://www.rocketseat.com.br/), ministrado por [Diego Fernandes](https://github.com/diego3g). 
 Utilizando o Framework [_Vite_](https://vitejs.dev/) para gerar o projeto Front-End. O projeto tem por obejtivo a aplicação de diversos conhecimentos de base relacionados ao
 do [_React_](https://reactjs.org/) e [_Typescript_](https://www.typescriptlang.org/docs/handbook/react.html) juntamente o [_Tailwindcss_](https://tailwindcss.com/) 
